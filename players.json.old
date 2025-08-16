@@ -3,7 +3,7 @@
     "nome": "Kageyama UR",
     "data": "01/12/26",
     "funcao": "S",
-    "img": "img/UR/Kageyama.png",
+    "img": "img/kageyamaUR.png",
     "School": "Karasuno",
     "vinculo": [
       "Dupla Excêntrica",
@@ -44,7 +44,7 @@
   {
     "nome": "Kageyama SSR",
     "funcao": "S",
-    "img": "img/SSR/Kageyama.png",
+    "img": "img/kageyamaSR.png",
     "School": "Karasuno",
     "vinculo": [],
     "Stats": {
@@ -83,7 +83,7 @@
     "nome": "Hinata SP",
     "data": "01/27/26",
     "funcao": "MB",
-    "img": "img/SP/Hinata.png",
+    "img": "img/hinataSP.png",
     "School": "Karasuno",
     "vinculo": [
       "Dupla Excêntrica",
@@ -124,7 +124,7 @@
   {
     "nome": "Hinata SSR",
     "funcao": "MB",
-    "img": "img/SSR/Hinata.png",
+    "img": "img/hinataSR.png",
     "School": "Karasuno",
     "vinculo": [
       "Dupla Excêntrica"
@@ -163,7 +163,7 @@
     "nome": "Nishinoya SP",
     "data": "03/13/26",
     "funcao": "L",
-    "img": "img/SP/Nishinoya.png",
+    "img": "img/nishinoyaSP.png",
     "School": "Karasuno",
     "vinculo": [
       "Gênios Karasuno",
@@ -203,7 +203,7 @@
   {
     "nome": "Nishinoya SSR",
     "funcao": "L",
-    "img": "img/SSR/Nishinoya.png",
+    "img": "img/nishinoyaSR.png",
     "School": "Karasuno",
     "vinculo": [
       "Deus Guardião e Ponta",
@@ -242,7 +242,7 @@
   {
     "nome": "Tanaka SSR",
     "funcao": "WS",
-    "img": "img/SSR/Tanaka.png",
+    "img": "img/tanakaSR.png",
     "School": "Karasuno",
     "vinculo": [
       "Esquadrão de Kiyoko"
@@ -280,7 +280,7 @@
   {
     "nome": "Tsuki SP",
     "funcao": "MB",
-    "img": "img/SP/Tsuki.png",
+    "img": "img/tsukiSP.png",
     "School": "Karasuno",
     "vinculo": [
       "Sol vs Lua"
@@ -319,7 +319,7 @@
   {
     "nome": "Tsuki SSR",
     "funcao": "MB",
-    "img": "img/SSR/Tsuki.png",
+    "img": "img/tsukiSR.png",
     "School": "Karasuno",
     "vinculo": [],
     "Stats": {
@@ -356,7 +356,7 @@
   {
     "nome": "Daichi SSR",
     "funcao": "OP",
-    "img": "img/SSR/Daichi.png",
+    "img": "img/daichiSR.png",
     "School": "Karasuno",
     "vinculo": [],
     "Stats": {
@@ -392,7 +392,7 @@
   {
     "nome": "Azumane SSR",
     "funcao": "WS",
-    "img": "img/SSR/Azumane.png",
+    "img": "img/azumaneSR.png",
     "School": "Karasuno",
     "vinculo": [
       "Deus Guardião e Ponta"
@@ -432,7 +432,7 @@
     "nome": "Sugawara SP",
     "data": "04/12/26",
     "funcao": "S",
-    "img": "img/SP/Sugawara.png",
+    "img": "img/sugawaraSP.png",
     "School": "Karasuno",
     "vinculo": [
       "Depois da Escola"
@@ -473,7 +473,7 @@
     "nome": "Kenma SP",
     "data": "02/26/26",
     "funcao": "S",
-    "img": "img/SP/Kenma.png",
+    "img": "img/kenmaSP.png",
     "School": "Nekoma",
     "vinculo": [
       "Observação de flores de cerejeira"
@@ -512,7 +512,7 @@
   {
     "nome": "Kenma SSR",
     "funcao": "S",
-    "img": "img/SSR/Kenma.png",
+    "img": "img/kenmaSR.png",
     "School": "Nekoma",
     "vinculo": [
       "Cérebro e Comandante"
@@ -551,7 +551,7 @@
   {
     "nome": "Yaku SSR",
     "funcao": "L",
-    "img": "img/SSR/Yaku.png",
+    "img": "img/yakuSR.png",
     "School": "Nekoma",
     "vinculo": [
       "Orientação Educacional"
@@ -590,7 +590,7 @@
   {
     "nome": "Kuro SSR",
     "funcao": "MB",
-    "img": "img/SSR/Kuro.png",
+    "img": "img/kuroSR.png",
     "School": "Nekoma",
     "vinculo": [],
     "Stats": {
@@ -627,7 +627,7 @@
   {
     "nome": "Kuro UR",
     "funcao": "MB",
-    "img": "img/UR/Kuro.png",
+    "img": "img/kuroUR.png",
     "School": "Nekoma",
     "vinculo": [
       "Cérebro e Comandante"
@@ -666,7 +666,7 @@
   {
     "nome": "Lev SSR",
     "funcao": "MB",
-    "img": "img/SSR/Lev.png",
+    "img": "img/levSR.png",
     "School": "Nekoma",
     "vinculo": [
       "Orientação Educacional"
@@ -706,7 +706,7 @@
     "nome": "Aone SP",
     "data": "06/18/26",
     "funcao": "MB",
-    "img": "img/SP/Aone.png",
+    "img": "img/aoneSP.png",
     "School": "Dateko",
     "vinculo": [
       "Natação"
@@ -745,7 +745,7 @@
   {
     "nome": "Aone SSR",
     "funcao": "MB",
-    "img": "img/SSR/Aone.png",
+    "img": "img/aoneSR.png",
     "School": "Dateko",
     "vinculo": [
       "O Silencioso e o Sarcástico"
@@ -784,7 +784,7 @@
   {
     "nome": "Futakuchi SSR",
     "funcao": "WS",
-    "img": "img/SSR/Futakuchi.png",
+    "img": "img/futakuchiSR.png",
     "School": "Dateko",
     "vinculo": [
       "O Silencioso e o Sarcástico",
@@ -824,7 +824,7 @@
   {
     "nome": "Sasaya SSR",
     "funcao": "OP",
-    "img": "img/SSR/Sasaya.png",
+    "img": "img/sasayaSR.png",
     "School": "Dateko",
     "vinculo": [],
     "Stats": {
@@ -860,7 +860,7 @@
   {
     "nome": "Koganegawa SSR",
     "funcao": "S",
-    "img": "img/SSR/Koganegawa.png",
+    "img": "img/koganegawaSR.png",
     "School": "Dateko",
     "vinculo": [
       "O Novo Capitão e o Novato Altão"
@@ -900,7 +900,7 @@
     "nome": "Oikawa UR",
     "data": "09/14/25",
     "funcao": "S",
-    "img": "img/UR/Oikawa.png",
+    "img": "img/oikawaUR.png",
     "School": "Aoba Johsai",
     "vinculo": [
       "Harmonia Perfeita"
@@ -940,7 +940,7 @@
   {
     "nome": "Oikawa SSR",
     "funcao": "S",
-    "img": "img/SSR/Oikawa.png",
+    "img": "img/oikawaSR.png",
     "School": "Aoba Johsai",
     "vinculo": [],
     "Stats": {
@@ -978,7 +978,7 @@
   {
     "nome": "Iwazumi SSR",
     "funcao": "WS",
-    "img": "img/SSR/Iwazumi.png",
+    "img": "img/iwazumiSR.png",
     "School": "Aoba Johsai",
     "vinculo": [
       "Harmonia Perfeita",
@@ -1017,7 +1017,7 @@
   {
     "nome": "Kentaro MAD DOG SSR",
     "funcao": "OP",
-    "img": "img/SSR/Kentaro.png",
+    "img": "img/kentaroSR.png",
     "School": "Aoba Johsai",
     "vinculo": [
       "A Matilha"
@@ -1056,7 +1056,7 @@
   {
     "nome": "Ushijima UR",
     "funcao": "OP",
-    "img": "img/UR/Ushijima.png",
+    "img": "img/ushijimaUR.png",
     "School": "Shiratorizawa",
     "vinculo": [
       "Bests para a vida",
@@ -1104,7 +1104,7 @@
   {
     "nome": "Tendo SSR",
     "funcao": "MB",
-    "img": "img/SSR/Tendo.png",
+    "img": "img/tendoSR.png",
     "School": "Shiratorizawa",
     "vinculo": [
       "Bests para a vida"
@@ -1142,7 +1142,7 @@
   {
     "nome": "Goshiki SSR",
     "funcao": "WS",
-    "img": "img/SSR/Goshiki.png",
+    "img": "img/goshikiSR.png",
     "School": "Shiratorizawa",
     "vinculo": [
       "WS de Shiratorizawa"
@@ -1181,7 +1181,7 @@
   {
     "nome": "Shirabu SSR",
     "funcao": "S",
-    "img": "img/SSR/Shirabu.png",
+    "img": "img/shirabuSR.png",
     "School": "Shiratorizawa",
     "vinculo": [
       "Campeão Absoluto e Levantador Sólido"
@@ -1220,7 +1220,7 @@
   {
     "nome": "Semi SSR",
     "funcao": "S",
-    "img": "img/SSR/Semi.png",
+    "img": "img/semiSR.png",
     "School": "Shiratorizawa",
     "vinculo": [],
     "Stats": {
@@ -1258,7 +1258,7 @@
   {
     "nome": "Ohira SSR",
     "funcao": "WS",
-    "img": "img/SSR/Ohira.png",
+    "img": "img/ohiraSR.png",
     "School": "Shiratorizawa",
     "vinculo": [
       "WS de Shiratorizawa"
@@ -1296,7 +1296,7 @@
   {
     "nome": "Yamagata SSR",
     "funcao": "L",
-    "img": "img/SSR/Yamagata.png",
+    "img": "img/yamagataSR.png",
     "School": "Shiratorizawa",
     "vinculo": [],
     "Stats": {
@@ -1333,7 +1333,7 @@
     "nome": "Bokuto UR",
     "data": "08/30/25",
     "funcao": "WS",
-    "img": "img/UR/Bokuto.png",
+    "img": "img/bokutoUR.png",
     "School": "Fukurodani",
     "vinculo": [
       "Ás Milagroso e Levantador Carinhoso"
@@ -1373,7 +1373,7 @@
     "nome": "Bokuto SP",
     "data": "05/12/26",
     "funcao": "WS",
-    "img": "img/SP/Bokuto.png",
+    "img": "img/bokutoSP.png",
     "School": "Fukurodani",
     "vinculo": [
       "Natação",
@@ -1414,7 +1414,7 @@
     "nome": "Akaashi SP",
     "data": "06/11/26",
     "funcao": "S",
-    "img": "img/SP/Akaashi.png",
+    "img": "img/akaashiSP.png",
     "School": "Fukurodani",
     "vinculo": [
       "Natação",
@@ -1454,7 +1454,7 @@
   {
     "nome": "Akaashi SSR",
     "funcao": "S",
-    "img": "img/SSR/Akaashi.png",
+    "img": "img/akaashiSR.png",
     "School": "Fukurodani",
     "vinculo": [
       "Ás Milagroso e Levantador Carinhoso"
@@ -1493,7 +1493,7 @@
   {
     "nome": "Konoha SSR",
     "funcao": "OP",
-    "img": "img/SSR/Konoha.png",
+    "img": "img/konohaSR.png",
     "School": "Fukurodani",
     "vinculo": [],
     "Stats": {
@@ -1529,7 +1529,7 @@
   {
     "nome": "Haruki SSR",
     "funcao": "L",
-    "img": "img/SSR/Haruki.png",
+    "img": "img/harukiSR.png",
     "School": "Fukurodani",
     "vinculo": [],
     "Stats": {
@@ -1565,7 +1565,7 @@
   {
     "nome": "Tatsuo SSR",
     "funcao": "MB",
-    "img": "img/SSR/Tatsuo.png",
+    "img": "img/tatsuoSR.png",
     "School": "Fukurodani",
     "vinculo": [],
     "Stats": {
@@ -1602,7 +1602,7 @@
   {
     "nome": "Terushima SSR",
     "funcao": "WS",
-    "img": "img/SSR/Terushima.png",
+    "img": "img/terushimaSR.png",
     "School": "Jozenji",
     "vinculo": [],
     "Stats": {
@@ -1640,7 +1640,7 @@
     "nome": "Atsumu UR",
     "data": "10/14/25",
     "funcao": "S",
-    "img": "img/UR/Atsumu.png",
+    "img": "img/atsumuUR.png",
     "School": "Inarizaki",
     "vinculo": [
       "A força dos Gêmeos",
@@ -1682,7 +1682,7 @@
     "nome": "Osamu UR",
     "data": "10/29/25",
     "funcao": "OP",
-    "img": "img/UR/Osamu.png",
+    "img": "img/osamuUR.png",
     "School": "Inarizaki",
     "vinculo": [
       "A força dos Gêmeos",
@@ -1722,7 +1722,7 @@
   {
     "nome": "Kita SSR",
     "funcao": "WS",
-    "img": "img/SSR/Kita.png",
+    "img": "img/kitaSR.png",
     "School": "Inarizaki",
     "vinculo": [
       "Cabeça dos Gêmeos"
@@ -1760,7 +1760,7 @@
   {
     "nome": "Rintaro SSR",
     "funcao": "MB",
-    "img": "img/SSR/Rintaro.png",
+    "img": "img/rintaroSR.png",
     "School": "Inarizaki",
     "vinculo": [],
     "Stats": {
@@ -1797,7 +1797,7 @@
   {
     "nome": "Oshiro SSR",
     "funcao": "WS",
-    "img": "img/SSR/Oshiro.png",
+    "img": "img/oshiroSR.png",
     "School": "Inarizaki",
     "vinculo": [],
     "Stats": {
@@ -1834,7 +1834,7 @@
   {
     "nome": "Akagi SSR",
     "funcao": "L",
-    "img": "img/SSR/Akagi.png",
+    "img": "img/akagiSR.png",
     "School": "Inarizaki",
     "vinculo": [],
     "Stats": {
@@ -1870,7 +1870,7 @@
   {
     "nome": "Yui SSR",
     "funcao": "WS",
-    "img": "img/SSR/Yui.png",
+    "img": "img/yuiSR.png",
     "School": "Inarizaki",
     "vinculo": [],
     "Stats": {
@@ -1908,7 +1908,7 @@
     "nome": "Hoshiumi UR",
     "data": "12/13/25",
     "funcao": "WS",
-    "img": "img/UR/Hoshiumi.png",
+    "img": "img/hoshiumiUR.png",
     "School": "Kamomedai",
     "vinculo": [
       "Amigos de longa data"
@@ -1950,7 +1950,7 @@
     "nome": "Hirugami UR",
     "data": "12/28/25",
     "funcao": "MB",
-    "img": "img/UR/Hirugami.png",
+    "img": "img/hirugamiUR.png",
     "School": "Kamomedai",
     "vinculo": [
       "Amigos de longa data"
@@ -1990,7 +1990,7 @@
     "nome": "Sakusa UR",
     "data": "08/10/26",
     "funcao": "WS",
-    "img": "img/UR/Hayaseiomi.png",
+    "img": "img/hayaseiomiUR.png",
     "School": "Itachiyama",
     "vinculo": [
       "Top Spiker e Top Libero"
@@ -2030,7 +2030,7 @@
     "nome": "Komori UR",
     "data": "09/09/26",
     "funcao": "L",
-    "img": "img/UR/Komori.png",
+    "img": "img/komoriUR.png",
     "School": "Itachiyama",
     "vinculo": [
       "Top Spiker e Top Libero"
