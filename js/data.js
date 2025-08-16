@@ -4,7 +4,7 @@ let characters = [];
 let descricoesSinergia = [];
 let selecionados = [];
 
-// Load JSON data
+// Carregar dados dos arquivos JSON (Deixei fetch pra quando a gente trocar pra API)
 async function loadJson(filePath) {
     try {
         const response = await fetch(filePath);
@@ -16,7 +16,7 @@ async function loadJson(filePath) {
     }
 }
 
-// Initialize data
+// Inicializar os dados nas variáveis globais
 async function initData() {
     characters = await loadJson('players.json');
     descricoesSinergia = await loadJson('synergies.json');
